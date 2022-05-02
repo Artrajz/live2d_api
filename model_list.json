@@ -1,14 +1,14 @@
 {
     "models": [
         "1003104",
-//        "Potion-Maker/Pio",
-//        "Potion-Maker/Tia",
-//        "bilibili-live/22",
-//        "bilibili-live/33",
-//        [
- //           "ShizukuTalk/shizuku-48",
- //           "ShizukuTalk/shizuku-pajama"
-//        ],
+        "Potion-Maker/Pio",
+        "Potion-Maker/Tia",
+        "bilibili-live/22",
+        "bilibili-live/33",
+        [
+           "ShizukuTalk/shizuku-48",
+           "ShizukuTalk/shizuku-pajama"
+        ],
         [
             "HyperdimensionNeptunia/neptune_classic",
             "HyperdimensionNeptunia/nepnep",
@@ -34,6 +34,7 @@
         "KantaiCollection/murakumo"
     ],
     "messages": [
+        "素晴"
         "来自 Potion Maker 的 Pio 酱 ~",
         "来自 Potion Maker 的 Tia 酱 ~",
         "来自 Bilibili Live 的 22 哦 ~",
