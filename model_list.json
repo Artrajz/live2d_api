@@ -1,5 +1,6 @@
 {
     "models": [
+<<<<<<< HEAD
         [
             "megumin/1024100",
             "megumin/1024107",
@@ -9,5 +10,11 @@
     ],
     "messages": [
         "惠惠"
+=======
+        "Potion-Maker/Pio",
+    ],
+    "messages": [
+        "来自 Potion Maker 的 Pio 酱 ~",
+>>>>>>> 23f0a2b74087218ecf9dd690155a995edef89d5d
     ]
 }
